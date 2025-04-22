@@ -50,12 +50,54 @@
 
 ### 🔥 Projects - 최신순 나열
 
+---
+
+#### github 📌 [우수상 - 핀테크 웹 개발 프로젝트 - 백엔드 (YooHoo)](https://github.com/YooSeungHo0124/YooHoo)
+> 금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스
+
+#### github 🧑‍🤝‍🧑 [HR 시스템 웹 개발 프로젝트 - 인프라 (AlBaro)](https://github.com/YooSeungHo0124/AlBaro)
+> 사내 인적 자원을 관리하여 대타 구하기 서비스
+
+#### github 🤸‍♂️ [우수상 - 피트니스 웹 개발 프로젝트 - 풀스택 (TONG)](https://github.com/jiwon0719/SSAFY_tong)
+> 챗봇, 채팅과 지도 기반 PT 쌤, 수강생 매칭 서비스
+
+#### Notion 📷 [베스텔라랩 연구개발팀 인턴쉽 - 연구개발](https://royal-mimosa-016.notion.site/Vestellalab-internship-1295629fdbe281bd9355e81b990f539d)
+> 실시간 주차장 CCTV 영상 기반 차량 탐지 및 추적으로 주차 현황, 이중 주차 등 판단
+
+#### Notion 📌 [우수상 - 의료 인공지능 공모전](https://royal-mimosa-016.notion.site/K-ium-1295629fdbe28191ab6be1e4d19e8e0b)
+> K-ium 의료인공지능경진대회 뇌동맥류 모델 개발
+
+#### Notion 📌 [은상 - 인공지능 교육 및 실습](https://royal-mimosa-016.notion.site/ICT-1295629fdbe281e59096ed3624fec1be)
+> 스마트시티 개발을 위한 이미지 처리 기술을 이용하여 데이터 구축을 실습하고 딥러닝 영상인식 및 분류를 실습
+
+#### Notion📌 [아스텔 영상처리 프로젝트](https://royal-mimosa-016.notion.site/X-ray-data-rewindowing-1295629fdbe28194a16fe8c799d1834e)
+> raw X-ray 의료 영상 데이터 Gaussian Mixture Model 이용하여 rewindowing
+
+#### gitlab 📌 [유니티 프로젝트](https://compmath.korea.ac.kr/gitlab/students/jyb-games/-/tree/master)
+> 유니티이용하여 2D 타워 디펜스 빌드 및 배포 하기  
+
+#### Notion 📌 [우수상 - 교내 자기 주도 연구 프로그램 - 객체 탐지](https://github.com/YooSeungHo0124/YooHoo)
+> 교내 자기 주도 연구 프로그램 | 객체 탐지 연구, Mediapipe 예제
+
+#### Notion 📌 [인공지능 경험들](https://github.com/YooSeungHo0124/YooHoo)
+> 금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스
+
+
+
+
+
+
+
+
+
+### 🔥 Projects - 최신순 나열
+
 <div align="center">
 
   <!-- YooHoo -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;">github -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -63,23 +105,23 @@
   <!-- AlBaro -->
   <a href="https://github.com/YooSeungHo0124/AlBaro" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">🧑‍🤝‍🧑HR 시스템 웹 개발 프로젝트 - 인프라 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> github -> 🧑‍🤝‍🧑HR 시스템 웹 개발 프로젝트 - 인프라 </h3>
       <p style="color: #586069;"> 사내 인적 자원을 관리하여 대타 구하 서비스</p>
     </div>
   </a>
 
   <!-- TONG -->
-  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+  <a href="https://github.com/jiwon0719/SSAFY_tong" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">🤸‍♂️피트니스 웹 개발 프로젝트 - 풀스 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> github -> 🤸‍♂️피트니스 웹 개발 프로젝트 - 풀스택 </h3>
       <p style="color: #586069;">챗봇, 채팅과 지도 기반 PT 쌤, 수강생 매칭 서비스</p>
     </div>
   </a>
 
   <!-- 베스텔라랩 인턴십 -->
-  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+  <a href="https://royal-mimosa-016.notion.site/Vestellalab-internship-1295629fdbe281bd9355e81b990f539d" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📷 베스텔라랩 - 연구개발팀 인턴쉽 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> Notion -> 📷 베스텔라랩 연구개발팀 인턴쉽 - 연구개발 </h3>
       <p style="color: #586069;">실시간 주차장 CCTV 영상 기반 차량 탐지 및 추적으로 주차 현황, 이중 주차 등 판단하기 </p>
     </div>
   </a>
@@ -87,7 +129,7 @@
   <!-- 공모전 -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;">  Notion -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -95,7 +137,7 @@
   <!-- 인공지능 교육육 -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> Notion -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -103,7 +145,7 @@
   <!-- 아스텔 영상처리  -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> Notion -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -111,7 +153,7 @@
   <!-- 유니티 -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;">  gitlab -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -119,7 +161,7 @@
   <!-- 교내 연구 프로그램 -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;"> Notion -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
@@ -127,27 +169,13 @@
   <!-- 인공지능 경험들 -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <h3 style="margin: 0; color: #0366d6;">  Notion -> 📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
       <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
-  </a>
-
-  <!-- YooHoo -->
-  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
-    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
-      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
-    </div>
-  </a>
-
-
-  
-  
+  </a>  
 </div>
 
 ---
-<br> 
-
 ### 📫 Contact Me
 <div align="left">
   <!-- Notion -->

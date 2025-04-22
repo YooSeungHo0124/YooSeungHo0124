@@ -3,24 +3,24 @@
   <img src="https://github.com/user-attachments/assets/63118d4b-4b65-4766-92a2-f6adc7623080">
 </div>
 
---- 
+<div align="center">
+  <b> 👋 AI/ML Engineer &  MLOps </b>   <br> 
+  안녕하세요! 유승호입니다. <br>   
+  저는 수학과를 전공하고 인공지능 전문성을 위해 학부연구생, 공모전, 인턴 경험을 쌓았고,   <br> 
+  현재는 삼성 청년 소프트웨어 아카데미에서 전반적인 소프트웨어 역량을 모두 키우고 있습니다.  
+</div>
+
+<br> 
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSeungHo0124&show_icons=true&theme=transparent) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgh0124)](https://solved.ac/tmdgh0124) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSeungHo0124)](https://github.com/anuraghazra/github-readme-stats) |
 |:--:|:--:|:--:|
 
 
 
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=YooSeungHo&style=plastic&label=방문자수&color=blue&labelColor=white&logo=github&logoColor=white)
-
-
-
-<div align="center">
-  <b> 👋 AI/ML Engineer & Researcher | Generative AI · LLM · MLOps · Open Source</b>
-</div>
-
-
 
 ---
+<br>
+<br> 
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -45,68 +45,108 @@
 
 
 ---
-
-### 🔥 Projects 
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-
-<!-- 프로젝트 1 -->
-<a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none; color: inherit;">
-  <div style="background: #f6f8fa; border-radius: 15px; padding: 25px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
-    <h3 style="margin: 0 0 15px 0; color: #2f81f7; font-size: 1.2em;">🐶 핀테크 웹 개발 프로젝트 - 백엔드</h3>
-    <p style="margin: 0 0 12px 0; color: #586069; line-height: 1.5;">투명하고 간편한 유기견 후원을 위한 핀테크 프로젝트</p>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </div>
-  </div>
-</a>
-
-<!-- 프로젝트 2 (샘플) -->
-<a href="PROJECT_URL" style="text-decoration: none; color: inherit;">
-  <div style="background: #f6f8fa; border-radius: 15px; padding: 25px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
-    <h3 style="margin: 0 0 15px 0; color: #2f81f7; font-size: 1.2em;">📈 AI 분석 플랫폼</h3>
-    <p style="margin: 0 0 12px 0; color: #586069; line-height: 1.5;">머신러닝 기반 데이터 분석 대시보드</p>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </div>
-  </div>
-</a>
-
-</div>
-
-
+<br> 
+<br> 
 
 ### 🔥 Projects - 최신순 나열
 
 <div align="center">
 
-  <!-- 프로젝트 1 -->
+  <!-- YooHoo -->
   <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
     <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
-      <h3 style="margin: 0; color: #0366d6;">핀테크 웹 개발 프로젝트 - 백엔드 </h3>
-      <p style="color: #586069;">투명하고 간편한 유기견 후원을 위한 핀테크 프로젝트</p>
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
     </div>
   </a>
+
+  <!-- AlBaro -->
+  <a href="https://github.com/YooSeungHo0124/AlBaro" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">🧑‍🤝‍🧑HR 시스템 웹 개발 프로젝트 - 인프라 </h3>
+      <p style="color: #586069;"> 사내 인적 자원을 관리하여 대타 구하 서비스</p>
+    </div>
+  </a>
+
+  <!-- TONG -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">🤸‍♂️피트니스 웹 개발 프로젝트 - 풀스 </h3>
+      <p style="color: #586069;">챗봇, 채팅과 지도 기반 PT 쌤, 수강생 매칭 서비스</p>
+    </div>
+  </a>
+
+  <!-- 베스텔라랩 인턴십 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📷 베스텔라랩 - 연구개발팀 인턴쉽 </h3>
+      <p style="color: #586069;">실시간 주차장 CCTV 영상 기반 차량 탐지 및 추적으로 주차 현황, 이중 주차 등 판단하기 </p>
+    </div>
+  </a>
+
+  <!-- 공모전 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- 인공지능 교육육 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- 아스텔 영상처리  -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- 유니티 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- 교내 연구 프로그램 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- 인공지능 경험들 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+  <!-- YooHoo -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">📌핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스</p>
+    </div>
+  </a>
+
+
+  
   
 </div>
 
-
 ---
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" />
-</div>
-
----
+<br> 
 
 ### 📫 Contact Me
 <div align="left">
@@ -133,4 +173,4 @@
 </div>
 
 
-
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=YooSeungHo&style=plastic&label=방문자수&color=blue&labelColor=white&logo=github&logoColor=white)

@@ -46,20 +46,54 @@
 
 ---
 
-### 🔥 Latest Projects
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=dark" />
-  </a>
-  <br>
-  <b>Project1:</b> (간단한 한 줄 설명)
-  <br><br>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=dark" />
-  </a>
-  <br>
-  <b>Project2:</b> (간단한 한 줄 설명)
+### 🔥 Projects 
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+
+<!-- 프로젝트 1 -->
+<a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none; color: inherit;">
+  <div style="background: #f6f8fa; border-radius: 15px; padding: 25px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+    <h3 style="margin: 0 0 15px 0; color: #2f81f7; font-size: 1.2em;">🐶 핀테크 웹 개발 프로젝트 - 백엔드</h3>
+    <p style="margin: 0 0 12px 0; color: #586069; line-height: 1.5;">투명하고 간편한 유기견 후원을 위한 핀테크 프로젝트</p>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </div>
+  </div>
+</a>
+
+<!-- 프로젝트 2 (샘플) -->
+<a href="PROJECT_URL" style="text-decoration: none; color: inherit;">
+  <div style="background: #f6f8fa; border-radius: 15px; padding: 25px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
+    <h3 style="margin: 0 0 15px 0; color: #2f81f7; font-size: 1.2em;">📈 AI 분석 플랫폼</h3>
+    <p style="margin: 0 0 12px 0; color: #586069; line-height: 1.5;">머신러닝 기반 데이터 분석 대시보드</p>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </div>
+  </div>
+</a>
+
 </div>
+
+
+
+### 🔥 Projects - 최신순 나열
+
+<div align="center">
+
+  <!-- 프로젝트 1 -->
+  <a href="https://github.com/YooSeungHo0124/YooHoo" style="text-decoration: none;">
+    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 300px; margin: 10px; display: inline-block; vertical-align: top;">
+      <h3 style="margin: 0; color: #0366d6;">핀테크 웹 개발 프로젝트 - 백엔드 </h3>
+      <p style="color: #586069;">투명하고 간편한 유기견 후원을 위한 핀테크 프로젝트</p>
+    </div>
+  </a>
+  
+</div>
+
 
 ---
 

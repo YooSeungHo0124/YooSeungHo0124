@@ -52,7 +52,7 @@
 
 ---
 
-#### github 📌 [우수상 - 핀테크 웹 개발 프로젝트 - 백엔드 (YooHoo)](https://github.com/YooSeungHo0124/YooHoo)
+#### github 🪙 [우수상 - 핀테크 웹 개발 프로젝트 - 백엔드 (YooHoo)](https://github.com/YooSeungHo0124/YooHoo)
 > 금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스
 
 #### github 🧑‍🤝‍🧑 [HR 시스템 웹 개발 프로젝트 - 인프라 (AlBaro)](https://github.com/YooSeungHo0124/AlBaro)
@@ -64,23 +64,23 @@
 #### Notion 📷 [베스텔라랩 연구개발팀 인턴쉽 - 연구개발](https://royal-mimosa-016.notion.site/Vestellalab-internship-1295629fdbe281bd9355e81b990f539d)
 > 실시간 주차장 CCTV 영상 기반 차량 탐지 및 추적으로 주차 현황, 이중 주차 등 판단
 
-#### Notion 📌 [우수상 - 의료 인공지능 공모전](https://royal-mimosa-016.notion.site/K-ium-1295629fdbe28191ab6be1e4d19e8e0b)
+#### Notion 🔍 [우수상 - 의료 인공지능 공모전](https://royal-mimosa-016.notion.site/K-ium-1295629fdbe28191ab6be1e4d19e8e0b)
 > K-ium 의료인공지능경진대회 뇌동맥류 모델 개발
 
-#### Notion 📌 [은상 - 인공지능 교육 및 실습](https://royal-mimosa-016.notion.site/ICT-1295629fdbe281e59096ed3624fec1be)
+#### Notion 📒 [은상 - 인공지능 교육 및 실습](https://royal-mimosa-016.notion.site/ICT-1295629fdbe281e59096ed3624fec1be)
 > 스마트시티 개발을 위한 이미지 처리 기술을 이용하여 데이터 구축을 실습하고 딥러닝 영상인식 및 분류를 실습
 
-#### Notion📌 [아스텔 영상처리 프로젝트](https://royal-mimosa-016.notion.site/X-ray-data-rewindowing-1295629fdbe28194a16fe8c799d1834e)
+#### Notion 🩻 [(주)아스텔 영상처리 프로젝트](https://royal-mimosa-016.notion.site/X-ray-data-rewindowing-1295629fdbe28194a16fe8c799d1834e)
 > raw X-ray 의료 영상 데이터 Gaussian Mixture Model 이용하여 rewindowing
 
-#### gitlab 📌 [유니티 프로젝트](https://compmath.korea.ac.kr/gitlab/students/jyb-games/-/tree/master)
+#### gitlab 🎮 [유니티 프로젝트](https://compmath.korea.ac.kr/gitlab/students/jyb-games/-/tree/master)
 > 유니티이용하여 2D 타워 디펜스 빌드 및 배포 하기  
 
-#### Notion 📌 [우수상 - 교내 자기 주도 연구 프로그램 - 객체 탐지](https://github.com/YooSeungHo0124/YooHoo)
-> 교내 자기 주도 연구 프로그램 | 객체 탐지 연구, Mediapipe 예제
+#### Notion 🖐️ [우수상 - 교내 자기 주도 연구 프로그램 - 객체 탐지](https://royal-mimosa-016.notion.site/Mediapipe-1295629fdbe281fda892eabb58dd2fb2)
+> 객체 탐지 연구및 Mediapipe 사용
 
-#### Notion 📌 [인공지능 경험들](https://github.com/YooSeungHo0124/YooHoo)
-> 금융 API를 활용한 투명하고 간편한 유기견 후원을 위한 서비스
+#### Notion 📌 [인공지능 경험들](https://www.notion.so/1295629fdbe281c79664d05911d495c8?v=1295629fdbe281af85c5000c7f134e1c)
+> 발전하는 AI 다양한 도구 사용해보기
 
 
 ---

@@ -12,11 +12,12 @@
 
 <br> 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSeungHo0124&show_icons=true&theme=transparent) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgh0124)](https://solved.ac/tmdgh0124) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSeungHo0124)](https://github.com/anuraghazra/github-readme-stats) |
-|:--:|:--:|:--:|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSeungHo0124&show_icons=true&theme=transparent) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgh0124)](https://solved.ac/tmdgh0124) 
+|:--:|:--:|
 
-
-
+<!-- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSeungHo0124)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
 <br>
@@ -41,7 +42,7 @@
 <div align="center">
   <h4> 기타 도구 & 플랫폼 </h4>
 </div>
-<div align="center" style="margin:15px 0"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></div>
+<div align="center" style="margin:15px 0"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></div>
 
 
 ---

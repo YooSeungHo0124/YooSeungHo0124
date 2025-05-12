@@ -12,8 +12,10 @@
 
 <br> 
 
+<!-- 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSeungHo0124&show_icons=true&theme=transparent) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgh0124)](https://solved.ac/tmdgh0124) 
 |:--:|:--:|
+-->
 
 <!-- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSeungHo0124)](https://github.com/anuraghazra/github-readme-stats)

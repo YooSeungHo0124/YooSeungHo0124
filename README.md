@@ -6,8 +6,11 @@
 <div align="center">
   <b> 👋 AI/ML Engineer &  MLOps </b>   <br> 
   안녕하세요! 유승호입니다. <br>   
-  저는 수학과를 전공하고 인공지능 전문성을 위해 학부연구생, 공모전, 인턴 경험을 쌓았고,   <br> 
-  현재는 삼성 청년 소프트웨어 아카데미에서 전반적인 소프트웨어 역량을 모두 키우고 있습니다.  
+  저는 수학과를 전공하고 인공지능 전문성을 위해 학부연구생, 공모전, 인턴, 삼성 청년 소프트웨어 아카데미 교육 경험을 쌓았고,   <br> 
+  현재는 취업을 위해 정진하고 있습니다.
+
+  최근에는 집에서 혼자 velog에 이것저것 해보고 있습니다.<br>
+  https://velog.io/@yoo_sseung/
 </div>
 
 <br> 
@@ -106,7 +109,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <!-- Velog -->
-  <a href="https://velog.io/@tmdgh0124/posts">
+  <a href="https://velog.io/@yoo_sseung/">
     <img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
   </a>
 </div>
